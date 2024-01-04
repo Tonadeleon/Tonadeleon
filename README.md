@@ -5,7 +5,6 @@
 -     Current projects:
 - As of now, I'm working for my school as a data analyst and TimeKeeper. I'm also a supervisor for 60 online TA's
 - However my most important project is my growing family. I'm envisioned to excel myself at my career to provide for them/us.
-
 -     How to reach me:
 - kayashy.de.leon@gmail.com
 - del21017@byui.edu
