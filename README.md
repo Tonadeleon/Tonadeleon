@@ -1,7 +1,6 @@
 -     Hello! 
 - I’m @Tonadeleon currently studying my Junior year at BYU-Idaho as a Data Science Major.
-- I’m interested in statistics, Applied Math, Economics and programming with statistical 
-- interference. my preferred language is R. I also have expertise at SQL, and Python.
+- I’m interested in statistics, Applied Math, Economics and programming with statistical interference. my preferred language is R. I also have expertise at SQL, and Python.
 -
 -     How to reach me:
 - kayashy.de.leon@gmail.com
