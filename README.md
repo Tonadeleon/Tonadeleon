@@ -1,5 +1,5 @@
 -     Hello! I’m @Tonadeleon 
-- I'm currently studying my Junior year at BYU-Idaho as a Data Science Major, with a minor in Economics.
+- I'm currently studying my Junior year at BYU-Idaho as a Data Science Major, with a double minor in Economics and Statistics.
 - I’m interested in statistics, Applied Math, Economics and programming for statistical interference. my preferred language is R. I also have experience in SQL, and Python.
 
 -     Current projects:
