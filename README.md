@@ -1,11 +1,11 @@
 -     Hello! I’m @Tonadeleon 
-- I'm currently studying my Junior year at BYU-Idaho as a Data Science Major, with a double minor in Economics and Statistics.
+- I'm currently studying my Senior year at BYU-Idaho as a Data Science Major, with a double minor in Statistics and Economics.
 - I’m interested in statistics, Applied Math, Economics and programming for statistical inference. my preferred programming language is R. I also have strong skills in SQL, Python, DAX.
-- I as well have expertise in softwares such as Excel, Power BI, Tableau etc.
+- I have expertise in software such as Excel, Power BI, Tableau etc for multiple purposes (Dashboards, KPIs, Among different industry measurements).
 
 -     Current projects:
-- As of now, I'm working for my school as a data analyst for the main data analysis department on campus.
-- But to me, my most important project is my growing family. I'm envisioned to excel myself at my career to provide for them/us.
+- As of now, I'm working for my school as a data analyst for the main institutional data analysis department on campus. I have experience in other Data Analysis departments on Campus too.
+- However to me, my most important project is my growing family. I'm envisioned to excel myself at my career to provide for them/us.
 -     How to reach me:
 - kayashy.de.leon@gmail.com
 - del21017@byui.edu
