@@ -1,5 +1,5 @@
 -     Hello! I’m @Tonadeleon 
-- I'm currently studying my Senior year at BYU-Idaho as a Data Science Major, with a double minor in Statistics and Economics.
+- I'm currently studying my Senior year at BYU-Idaho as a Statistics Major, with a double minor in Data Science and Economics.
 - I’m interested in statistics, Applied Math, Economics and programming for statistical inference. my preferred programming language is R. I also have strong skills in SQL, Python, DAX.
 - I have expertise in software such as Excel, Power BI, Tableau etc for multiple purposes (Dashboards, KPIs, Among different industry measurements).
 
