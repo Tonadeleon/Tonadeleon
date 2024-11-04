@@ -7,6 +7,7 @@
 <h1 style="text-align: center;">Current Projects</h1>
 
 - My latest on going project has been the building of my website, from scratch. Visit https://tonadeleon.netlify.app/
+- Take a look at my **Projects-Source-Code repo** for a summary of my work.
 - As of now, I'm working as a data engineer intern. And I have ~2.5 combined years of professional experience as Data Analyst and Data Scientist.
 - I'm currently taking 3 full time classes, Probability and Statistics, Applied Time Series Analysis, and Data Science Programming.
 - To me, my most important project is my growing family. I'm envisioned to excel myself at my career to provide for them/us.4
