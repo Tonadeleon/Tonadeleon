@@ -1,12 +1,23 @@
--     Hello! I’m @Tonadeleon 
-- I'm currently studying my Senior year at BYU-Idaho as a Statistics Major, with a double minor in Data Science and Economics.
-- I’m interested in statistics, Applied Math, Economics and programming for statistical inference. my preferred programming language is R. I also have strong skills in SQL, Python, DAX.
-- I have expertise in software such as Excel, Power BI, Tableau etc for multiple purposes (Dashboards, KPIs, Among different industry measurements).
+<h2 style="text-align: center;">Welcome!</h2>
 
--     Current projects:
-- As of now, I'm working for my school as a data analyst for the main institutional data analysis department on campus. I have experience in other Data Analysis departments on Campus too.
-- However to me, my most important project is my growing family. I'm envisioned to excel myself at my career to provide for them/us.
--     How to reach me:
+- My name is Tona, I'm currently studying my Senior year at BYU-Idaho as an aspiring Data Scientist, with a double minor in Statistics and Economics.
+- I'll be graduating pretty soon in April 2025.
+- My interests rely in statistics, data visualization, applied math, economics and programming.
+
+---
+
+<h2 style="text-align: center;">Current Projects</h2>
+
+- My latest on going project has been the building of my website, from scratch. Visit https://tonadeleon.netlify.app/
+- As of now, I'm working as a data engineer intern. And I have ~2.5 combined years of professional experience as Data Analyst and Data Scientist.
+- I'm currently taking 3 full time classes, Probability and Statistics, Applied Time Series Analysis, and Data Science Programming.
+- To me, my most important project is my growing family. I'm envisioned to excel myself at my career to provide for them/us.4
+
+---
+
+<h2 style="text-align: center;">Reach me at</h2>
+
+- https://tonadeleon.netlify.app/
 - kayashy.de.leon@gmail.com
 - del21017@byui.edu
 - (208) 948-3742
